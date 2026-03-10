@@ -11,11 +11,13 @@
 * Node.js / Express
 * PostgreSQL
 * Git
+* C#
+* PHP
 * Linux
 
 ## Projects
 
-* Appointment Booking Platform (Live Demo / Repo)
+* Appointment Booking Platform [(Case Study Link)](https://kerochan.lol/blogs/sks.html)
 * PHP eCommerce Audit & Refactor [(Case Study Link)](https://kerochan.lol/blogs/php.html)
 * OpenIddict + Blazor Auth POC
 
