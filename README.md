@@ -2,7 +2,7 @@
 
 * Full-stack developer focused on PERN (Postgres, Express, React, Node)
 * Experience building authentication systems, role-based access control, and production deployments
-* Currently building: Appointment Booking Platform (PERN stack, JWT auth, PostgreSQL)
+* Built: Appointment Booking Platform (PERN stack, JWT auth, PostgreSQL)
 
 ## Tech Stack
 
