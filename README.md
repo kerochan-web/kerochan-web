@@ -17,7 +17,7 @@
 
 ## Projects
 
-* Appointment Booking Platform [(Case Study Link)](https://kerochan.lol/blogs/sks.html)
+* Appointment Booking Platform [(Case Study Link)](https://kerochan.lol/blogs/pern.html)
 * PHP eCommerce Audit & Refactor [(Case Study Link)](https://kerochan.lol/blogs/php.html)
 * OpenIddict + Blazor Auth POC
 
